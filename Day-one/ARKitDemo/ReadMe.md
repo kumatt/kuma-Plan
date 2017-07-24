@@ -17,3 +17,37 @@ ARKit主要有三层核心技术技术
 ![AR效果](./Assets/image2.jpeg)
 
 这时你可以发现，当前APP展示出的基本效果已经和之前用过的AR一致了。
+
+`SCNView`作为展示效果的背景放置在控制器中
+`SCNScene`拿到工程里面放置3D建模文件的地址， 构建精灵角色，并添加到背景版`SCNView`中
+`ARSessionConfiguration`在配置类对象里设置会话如何将真实的设备运动映射到3D场景的坐标系统里，世界坐标
+
+所以说，创建一个`SCNView`对象，给它一个`SCNScene`精灵角色，将它放置在窗口中，加载会话配置`ARSessionConfiguration`就构建了一个简单的AR效果。
+以下是代码构建AR的最简易过程
+```Object-C
+    /// 精灵图像
+    private let scene:SCNScene = SCNScene.init(named: "art.scnassets/ship.scn")!
+    
+    /// 背景
+    private lazy var scnView:ARSCNView = {
+        let scnView = ARSCNView.init(frame: UIScreen.main.bounds)
+        scnView.delegate = self
+        scnView.scene = self.scene
+        self.view.addSubview(scnView)
+        return scnView
+    }()
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        self.scnView.session.run(ARWorldTrackingSessionConfiguration.init())
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        self.scnView.session.pause()
+    }
+    
+    override var prefersStatusBarHidden: Bool{
+        return true
+    }
+```
