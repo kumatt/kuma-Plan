@@ -11,36 +11,35 @@ import ARKit
 
 class ViewController: UIViewController,ARSCNViewDelegate {
 
-    /// 精灵
+    /// 精灵图像
     private let scene:SCNScene = SCNScene.init(named: "art.scnassets/ship.scn")!
+    
     /// 背景
-    private lazy var scnView:ARSCNView! = ARSCNView.init(frame: UIScreen.main.bounds)
+    private lazy var scnView:ARSCNView = {
+        let scnView = ARSCNView.init(frame: UIScreen.main.bounds)
+        scnView.delegate = self
+        scnView.scene = self.scene
+        self.view.addSubview(scnView)
+        return scnView
+    }()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        scnViewAdd()
-    }
-    
-    func scnViewAdd() {
-        scnView.delegate = self
-        scnView.scene = scene
-        self.view.addSubview(scnView)
     }
 
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        scnView.session.run(ARWorldTrackingSessionConfiguration.init(), options: ARSession.RunOptions.resetTracking)
-    }
-    
-    override func viewWillDisappear(_ animated: Bool) {
-        super.viewWillDisappear(animated)
-        scnView.session.pause()
+        self.scnView.session.run(ARWorldTrackingSessionConfiguration.init())
     }
 
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        self.scnView.session.pause()
+    }
+    
     override var prefersStatusBarHidden: Bool{
         return true
     }
-    
 }
 
