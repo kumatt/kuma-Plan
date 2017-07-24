@@ -10,7 +10,7 @@ import UIKit
 import ARKit
 
 class ViewController: UIViewController,ARSCNViewDelegate {
-
+    
     /// 精灵图像
     private let scene:SCNScene = SCNScene.init(named: "art.scnassets/ship.scn")!
     
@@ -27,12 +27,12 @@ class ViewController: UIViewController,ARSCNViewDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         self.scnView.session.run(ARWorldTrackingSessionConfiguration.init())
     }
-
+    
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
         self.scnView.session.pause()
@@ -42,4 +42,5 @@ class ViewController: UIViewController,ARSCNViewDelegate {
         return true
     }
 }
+
 
