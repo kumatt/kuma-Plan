@@ -12,18 +12,20 @@ ARKit主要有三层核心技术技术
 
 ![系统创建AR应用](./Assets/image1.png)
 
-然后便可以直接看到效果了
+接着便可以直接看到效果了
 
 ![AR效果](./Assets/image2.jpeg)
 
-这时你可以发现，当前APP展示出的基本效果已经和之前用过的AR一致了。
+AR效果如上图所示
 
-`SCNView`作为展示效果的背景放置在控制器中
-`SCNScene`拿到工程里面放置3D建模文件的地址， 构建精灵角色，并添加到背景版`SCNView`中
-`ARSessionConfiguration`在配置类对象里设置会话如何将真实的设备运动映射到3D场景的坐标系统里，世界坐标
+关于纯代码构建的AR
 
-所以说，创建一个`SCNView`对象，给它一个`SCNScene`精灵角色，将它放置在窗口中，加载会话配置`ARSessionConfiguration`就构建了一个简单的AR效果。
-以下是代码构建AR的最简易过程
+- `SCNView`作为展示效果的背景放置在控制器中
+- `SCNScene`拿到工程里面放置3D建模文件的地址， 构建精灵角色，并放置到背景版`SCNView`中
+- `ARSessionConfiguration`在配置类对象里设置会话如何将真实的设备运动映射到3D场景的坐标系统里，世界坐标
+
+创建一个`SCNView`对象，给它一个`SCNScene`精灵角色，将它放置在窗口中，加载会话配置`ARSessionConfiguration`就构建了一个简单的AR效果。
+以下是最简易构建AR的过程
 ```Object-C
     /// 精灵图像
     private let scene:SCNScene = SCNScene.init(named: "art.scnassets/ship.scn")!
