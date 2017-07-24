@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  AirKit
+//  ARKitDemo
 //
 //  Created by admin on 2017/7/24.
 //  Copyright © 2017年 juyuanGroup. All rights reserved.

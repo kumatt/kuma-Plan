@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		845392681F25C482008E7B4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845392671F25C482008E7B4B /* AppDelegate.swift */; };
-		8453926A1F25C482008E7B4B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 845392691F25C482008E7B4B /* art.scnassets */; };
-		8453926C1F25C482008E7B4B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8453926B1F25C482008E7B4B /* ViewController.swift */; };
-		8453926F1F25C482008E7B4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8453926D1F25C482008E7B4B /* Main.storyboard */; };
-		845392711F25C482008E7B4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845392701F25C482008E7B4B /* Assets.xcassets */; };
-		845392741F25C482008E7B4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845392721F25C482008E7B4B /* LaunchScreen.storyboard */; };
+		845392C81F25EDEC008E7B4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845392C71F25EDEC008E7B4B /* AppDelegate.swift */; };
+		845392CA1F25EDEC008E7B4B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845392C91F25EDEC008E7B4B /* ViewController.swift */; };
+		845392CD1F25EDEC008E7B4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845392CB1F25EDEC008E7B4B /* Main.storyboard */; };
+		845392CF1F25EDEC008E7B4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845392CE1F25EDEC008E7B4B /* Assets.xcassets */; };
+		845392D21F25EDEC008E7B4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845392D01F25EDEC008E7B4B /* LaunchScreen.storyboard */; };
+		845392DA1F25F40C008E7B4B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 845392D91F25F40C008E7B4B /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		845392641F25C482008E7B4B /* AirKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AirKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		845392671F25C482008E7B4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		845392691F25C482008E7B4B /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
-		8453926B1F25C482008E7B4B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		8453926E1F25C482008E7B4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		845392701F25C482008E7B4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		845392731F25C482008E7B4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		845392751F25C482008E7B4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		845392C41F25EDEC008E7B4B /* ARKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		845392C71F25EDEC008E7B4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		845392C91F25EDEC008E7B4B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		845392CC1F25EDEC008E7B4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		845392CE1F25EDEC008E7B4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		845392D11F25EDEC008E7B4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		845392D31F25EDEC008E7B4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		845392D91F25F40C008E7B4B /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; name = art.scnassets; path = "../../../Documents/GitHub/One-day-one-project/Day-one/AirKit/AirKit/art.scnassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		845392611F25C482008E7B4B /* Frameworks */ = {
+		845392C11F25EDEC008E7B4B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8453925B1F25C482008E7B4B = {
+		845392BB1F25EDEC008E7B4B = {
 			isa = PBXGroup;
 			children = (
-				845392661F25C482008E7B4B /* AirKit */,
-				845392651F25C482008E7B4B /* Products */,
+				845392C61F25EDEC008E7B4B /* ARKitDemo */,
+				845392C51F25EDEC008E7B4B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		845392651F25C482008E7B4B /* Products */ = {
+		845392C51F25EDEC008E7B4B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				845392641F25C482008E7B4B /* AirKit.app */,
+				845392C41F25EDEC008E7B4B /* ARKitDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		845392661F25C482008E7B4B /* AirKit */ = {
+		845392C61F25EDEC008E7B4B /* ARKitDemo */ = {
 			isa = PBXGroup;
 			children = (
-				845392671F25C482008E7B4B /* AppDelegate.swift */,
-				845392691F25C482008E7B4B /* art.scnassets */,
-				8453926B1F25C482008E7B4B /* ViewController.swift */,
-				8453926D1F25C482008E7B4B /* Main.storyboard */,
-				845392701F25C482008E7B4B /* Assets.xcassets */,
-				845392721F25C482008E7B4B /* LaunchScreen.storyboard */,
-				845392751F25C482008E7B4B /* Info.plist */,
+				845392D91F25F40C008E7B4B /* art.scnassets */,
+				845392C71F25EDEC008E7B4B /* AppDelegate.swift */,
+				845392C91F25EDEC008E7B4B /* ViewController.swift */,
+				845392CB1F25EDEC008E7B4B /* Main.storyboard */,
+				845392CE1F25EDEC008E7B4B /* Assets.xcassets */,
+				845392D01F25EDEC008E7B4B /* LaunchScreen.storyboard */,
+				845392D31F25EDEC008E7B4B /* Info.plist */,
 			);
-			path = AirKit;
+			path = ARKitDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		845392631F25C482008E7B4B /* AirKit */ = {
+		845392C31F25EDEC008E7B4B /* ARKitDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 845392781F25C482008E7B4B /* Build configuration list for PBXNativeTarget "AirKit" */;
+			buildConfigurationList = 845392D61F25EDEC008E7B4B /* Build configuration list for PBXNativeTarget "ARKitDemo" */;
 			buildPhases = (
-				845392601F25C482008E7B4B /* Sources */,
-				845392611F25C482008E7B4B /* Frameworks */,
-				845392621F25C482008E7B4B /* Resources */,
+				845392C01F25EDEC008E7B4B /* Sources */,
+				845392C11F25EDEC008E7B4B /* Frameworks */,
+				845392C21F25EDEC008E7B4B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AirKit;
-			productName = AirKit;
-			productReference = 845392641F25C482008E7B4B /* AirKit.app */;
+			name = ARKitDemo;
+			productName = ARKitDemo;
+			productReference = 845392C41F25EDEC008E7B4B /* ARKitDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8453925C1F25C482008E7B4B /* Project object */ = {
+		845392BC1F25EDEC008E7B4B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = juyuanGroup;
 				TargetAttributes = {
-					845392631F25C482008E7B4B = {
+					845392C31F25EDEC008E7B4B = {
 						CreatedOnToolsVersion = 9.0;
 					};
 				};
 			};
-			buildConfigurationList = 8453925F1F25C482008E7B4B /* Build configuration list for PBXProject "AirKit" */;
+			buildConfigurationList = 845392BF1F25EDEC008E7B4B /* Build configuration list for PBXProject "ARKitDemo" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 8453925B1F25C482008E7B4B;
-			productRefGroup = 845392651F25C482008E7B4B /* Products */;
+			mainGroup = 845392BB1F25EDEC008E7B4B;
+			productRefGroup = 845392C51F25EDEC008E7B4B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				845392631F25C482008E7B4B /* AirKit */,
+				845392C31F25EDEC008E7B4B /* ARKitDemo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		845392621F25C482008E7B4B /* Resources */ = {
+		845392C21F25EDEC008E7B4B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8453926A1F25C482008E7B4B /* art.scnassets in Resources */,
-				845392741F25C482008E7B4B /* LaunchScreen.storyboard in Resources */,
-				845392711F25C482008E7B4B /* Assets.xcassets in Resources */,
-				8453926F1F25C482008E7B4B /* Main.storyboard in Resources */,
+				845392D21F25EDEC008E7B4B /* LaunchScreen.storyboard in Resources */,
+				845392DA1F25F40C008E7B4B /* art.scnassets in Resources */,
+				845392CF1F25EDEC008E7B4B /* Assets.xcassets in Resources */,
+				845392CD1F25EDEC008E7B4B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		845392601F25C482008E7B4B /* Sources */ = {
+		845392C01F25EDEC008E7B4B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8453926C1F25C482008E7B4B /* ViewController.swift in Sources */,
-				845392681F25C482008E7B4B /* AppDelegate.swift in Sources */,
+				845392CA1F25EDEC008E7B4B /* ViewController.swift in Sources */,
+				845392C81F25EDEC008E7B4B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		8453926D1F25C482008E7B4B /* Main.storyboard */ = {
+		845392CB1F25EDEC008E7B4B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8453926E1F25C482008E7B4B /* Base */,
+				845392CC1F25EDEC008E7B4B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		845392721F25C482008E7B4B /* LaunchScreen.storyboard */ = {
+		845392D01F25EDEC008E7B4B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				845392731F25C482008E7B4B /* Base */,
+				845392D11F25EDEC008E7B4B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		845392761F25C482008E7B4B /* Debug */ = {
+		845392D41F25EDEC008E7B4B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -223,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		845392771F25C482008E7B4B /* Release */ = {
+		845392D51F25EDEC008E7B4B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -273,28 +273,28 @@
 			};
 			name = Release;
 		};
-		845392791F25C482008E7B4B /* Debug */ = {
+		845392D71F25EDEC008E7B4B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = GWCP73NNJ9;
-				INFOPLIST_FILE = AirKit/Info.plist;
+				INFOPLIST_FILE = ARKitDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Blanbok.AirKit;
+				PRODUCT_BUNDLE_IDENTIFIER = Blanbok.ARKitDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		8453927A1F25C482008E7B4B /* Release */ = {
+		845392D81F25EDEC008E7B4B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = GWCP73NNJ9;
-				INFOPLIST_FILE = AirKit/Info.plist;
+				INFOPLIST_FILE = ARKitDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Blanbok.AirKit;
+				PRODUCT_BUNDLE_IDENTIFIER = Blanbok.ARKitDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -304,24 +304,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8453925F1F25C482008E7B4B /* Build configuration list for PBXProject "AirKit" */ = {
+		845392BF1F25EDEC008E7B4B /* Build configuration list for PBXProject "ARKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				845392761F25C482008E7B4B /* Debug */,
-				845392771F25C482008E7B4B /* Release */,
+				845392D41F25EDEC008E7B4B /* Debug */,
+				845392D51F25EDEC008E7B4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		845392781F25C482008E7B4B /* Build configuration list for PBXNativeTarget "AirKit" */ = {
+		845392D61F25EDEC008E7B4B /* Build configuration list for PBXNativeTarget "ARKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				845392791F25C482008E7B4B /* Debug */,
-				8453927A1F25C482008E7B4B /* Release */,
+				845392D71F25EDEC008E7B4B /* Debug */,
+				845392D81F25EDEC008E7B4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8453925C1F25C482008E7B4B /* Project object */;
+	rootObject = 845392BC1F25EDEC008E7B4B /* Project object */;
 }
