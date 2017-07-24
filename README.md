@@ -10,7 +10,7 @@ Daily income is recorded by a small project each day
 
 Recorded in 2017.07.24
 
-## Project-One [ARKit](./Day-one/ARKit)
+## Project-One [ARKit](./Day-one/ARKitDemo)
 > 关于iOS-11新功能 ARKit库的使用
 
 
