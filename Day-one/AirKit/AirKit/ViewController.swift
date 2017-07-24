@@ -12,6 +12,7 @@ import ARKit
 
 class ViewController: UIViewController, ARSCNViewDelegate {
 
+    /// 显示AR体验的视图，通过3D SceneKit内容增强了相机视图
     @IBOutlet var sceneView: ARSCNView!
     
     override func viewDidLoad() {
@@ -24,6 +25,8 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         sceneView.showsStatistics = true
         
         // Create a new scene
+        
+        /// 内容的容器，从3D建模工具生成的文件中加载一个场景，或者用代码创建一个，然后把它显示在视图上
         let scene = SCNScene(named: "art.scnassets/ship.scn")!
         
         // Set the scene to the view
@@ -34,6 +37,8 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         super.viewWillAppear(animated)
         
         // Create a session configuration
+        
+        /// 会话配置，在配置类对象里设置会话如何将真实的设备运动映射到3D场景的坐标系统里，这里默认使用重力
         let configuration = ARWorldTrackingSessionConfiguration()
         
         // Run the view's session
@@ -76,5 +81,9 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     func sessionInterruptionEnded(_ session: ARSession) {
         // Reset tracking and/or remove existing anchors if consistent tracking is required
         
+    }
+    
+    override var prefersStatusBarHidden: Bool{
+        return true
     }
 }
