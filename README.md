@@ -13,4 +13,9 @@ Recorded in 2017.07.24
 ## Project-One [ARKit](./Day-one/ARKitDemo)
 > 关于iOS-11新功能 ARKit库的使用
 
+# Day-Two
+> 增进AR理解
 
+[ARKit从入门到精通](http://blog.csdn.net/qq_34047841/article/details/73435609)
+
+[ARKit从入门到精通](http://blog.csdn.net/u013263917/article/details/72903174)
