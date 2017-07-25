@@ -14,6 +14,7 @@ class ViewController: UIViewController,ARSCNViewDelegate {
     /// 精灵图像
     private let scene:SCNScene = SCNScene.init(named: "art.scnassets/ship.scn")!
     
+    
     /// 背景
     private lazy var scnView:ARSCNView = {
         let scnView = ARSCNView.init(frame: UIScreen.main.bounds)
@@ -37,5 +38,3 @@ class ViewController: UIViewController,ARSCNViewDelegate {
         return true
     }
 }
-
-
