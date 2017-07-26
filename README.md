@@ -25,7 +25,7 @@ Recorded in 2017.07.24
 
 [ARKit从入门到精通](http://blog.csdn.net/u013263917/article/details/72903174)
 
-## Day-Three [](./Daily-Exam/Day-three/StackTest)
+## Day-Three [StackTest](./Daily-Exam/Day-three/StackTest)
 > Kiwi自动化测试初探
 Recorded in 2017.07.24
 
