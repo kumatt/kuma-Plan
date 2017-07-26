@@ -24,3 +24,12 @@ Recorded in 2017.07.24
 参考资料：
 
 [ARKit从入门到精通](http://blog.csdn.net/u013263917/article/details/72903174)
+
+## Day-Three [](./Daily-Exam/Day-three/StackTest)
+> Kiwi自动化测试初探
+Recorded in 2017.07.24
+
+参考资料：
+
+[TDD的iOS开发初步以及Kiwi使用入门](https://onevcat.com/2014/02/ios-test-with-kiwi/)
+[Kiwi,BDD行为测试框架](http://www.cnblogs.com/ios122/p/4979617.html)
