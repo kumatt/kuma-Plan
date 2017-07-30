@@ -23,7 +23,7 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 
 > 项目
 
-# Tech-Tech-conclusion
+# Tech-conclusion
   [`ARKit`框架学习笔记](./Tech-conclusion/ARKit.md)
 
 # Daily-Exam
@@ -52,7 +52,7 @@ Recorded in 2017.07.24
 
 [Kiwi,BDD行为测试框架](http://www.cnblogs.com/ios122/p/4979617.html)
 
-## [Day-Three](https://blanbok.github.io)
+## Day-four[代码规范](https://blanbok.github.io)
 > 规范代码格式，制订代码规范
 
 Recorded in 2017.07.30
