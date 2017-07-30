@@ -26,7 +26,7 @@ AR效果如上图所示
 
 创建一个`SCNView`对象，给它一个`SCNScene`精灵角色，将它放置在窗口中，加载会话配置`ARSessionConfiguration`就构建了一个简单的AR效果。
 以下是最简易构建AR的过程
-```Object-C
+```objective-c
     /// 精灵图像
     private let scene:SCNScene = SCNScene.init(named: "art.scnassets/ship.scn")!
     
