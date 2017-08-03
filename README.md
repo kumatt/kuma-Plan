@@ -24,7 +24,7 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 > 项目
 
 # Tech-conclusion
-  [`ARKit`框架学习笔记](./Tech-conclusion/ARKit.md)
+  [`ARKit`框架学习笔记](https://github.com/Blanbok/One-project-one-plan/blob/master/Tech-conclusion/ARKit.md)
 
 # Daily-Exam
 
@@ -32,7 +32,7 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 
 Recorded in 2017.07.24
 
-### Project-One [ARKit](./Daily-Exam/Day-one/ARKitDemo)
+### Project-One [ARKit](https://github.com/Blanbok/One-project-one-plan/tree/master/Daily-Exam/Day-one/ARKitDemo)
 > 关于iOS-11新功能 ARKit库的使用
 
 ## Day-Two
@@ -42,7 +42,7 @@ Recorded in 2017.07.24
 
 [ARKit从入门到精通](http://blog.csdn.net/u013263917/article/details/72903174)
 
-## Day-Three [StackTest](./Daily-Exam/Day-three/StackTest)
+## Day-Three [StackTest](https://github.com/Blanbok/One-project-one-plan/tree/master/Daily-Exam/Day-three/StackTest)
 > Kiwi自动化测试初探
 Recorded in 2017.07.24
 
@@ -52,7 +52,7 @@ Recorded in 2017.07.24
 
 [Kiwi,BDD行为测试框架](http://www.cnblogs.com/ios122/p/4979617.html)
 
-## Day-four[代码规范](https://blanbok.github.io)
+## Day-four[代码规范](https://blanbok.github.io/post/objective-c-coding-standard/)
 > 规范代码格式，制订代码规范
 
 Recorded in 2017.07.30
@@ -87,7 +87,9 @@ Recorded in 2017.07.30
 
 4. 实际执行
 
-- 2017.07.30- 计划开始之时命名规范大致已完成一半
+- 2017.07.30 计划开始之时命名规范大致已完成一半
+- 2017.08.02 初稿完成
+- 2017.08.03 改进稿完成
 
 5. 反思计划
 
