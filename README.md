@@ -1,7 +1,7 @@
 # One-project-one-plan
 Daily income is recorded by a small project each day
 
-> 起初，我是为了学习Swift仿着[30DaysofSwift](https://github.com/allenwong/30DaysofSwift)而开始自己的[My30DaysofSwift-4.0](https://github.com/Blanbok/My30DaysofSwift-4.0),之后过了一周时间,我对于Swift的关键字和基本语法有了一定掌握，其它相关类库也能和Object-C联系起来。我便开始思考有没有更适合自己的方法。于是，我便准备了这个项目。
+> 起初，我是为了学习Swift仿着[30DaysofSwift](https://github.com/allenwong/30DaysofSwift)而开始自己的[My30DaysofSwift-4.0](https://github.com/OComme/My30DaysofSwift-4.0),之后过了一周时间,我对于Swift的关键字和基本语法有了一定掌握，其它相关类库也能和Object-C联系起来。我便开始思考有没有更适合自己的方法。于是，我便准备了这个项目。
 
 V1.0.0：[start in 24 july 2017]
 > 首先，在开始项目的前一天确定好第二天要做的东西（模仿的对象或者实现的功能）。
@@ -24,7 +24,7 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 > 项目
 
 # Tech-conclusion
-  [`ARKit`框架学习笔记](https://github.com/Blanbok/One-project-one-plan/blob/master/Tech-conclusion/ARKit.md)
+  [`ARKit`框架学习笔记](https://github.com/OComme/One-project-one-plan/blob/master/Tech-conclusion/ARKit.md)
 
 # Daily-Exam
 
@@ -32,7 +32,7 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 
 Recorded in 2017.07.24
 
-### Project-One [ARKit](https://github.com/Blanbok/One-project-one-plan/tree/master/Daily-Exam/Day-one/ARKitDemo)
+### Project-One [ARKit](https://github.com/OComme/One-project-one-plan/tree/master/Daily-Exam/Day-one/ARKitDemo)
 > 关于iOS-11新功能 ARKit库的使用
 
 ## Day-Two
@@ -42,7 +42,7 @@ Recorded in 2017.07.24
 
 [ARKit从入门到精通](http://blog.csdn.net/u013263917/article/details/72903174)
 
-## Day-Three [StackTest](https://github.com/Blanbok/One-project-one-plan/tree/master/Daily-Exam/Day-three/StackTest)
+## Day-Three [StackTest](https://github.com/OComme/One-project-one-plan/tree/master/Daily-Exam/Day-three/StackTest)
 > Kiwi自动化测试初探
 Recorded in 2017.07.24
 
@@ -52,7 +52,7 @@ Recorded in 2017.07.24
 
 [Kiwi,BDD行为测试框架](http://www.cnblogs.com/ios122/p/4979617.html)
 
-## Project-one[代码规范](https://blanbok.github.io/post/iOS-Development/objective-c-coding-standard/)
+## Project-one[代码规范](https://ocomme.github.io/post/ios-development/objective-c-coding-standard/)
 > 规范代码格式，制订代码规范
 
 Recorded in 2017.07.30
@@ -97,7 +97,8 @@ Recorded in 2017.07.30
 
 网络上可以参考的东西很多，应该对照多分资料学习
 
-## Project-two[代码的封装](https://blanbok.github.io/post/iOS-Development/Code-Encapsulation/)
+
+## Project-two[代码封装](https://ocomme.github.io/post/ios-development/code-encapsulation/)
 
 1. 计划分解
 
