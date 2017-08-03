@@ -52,7 +52,7 @@ Recorded in 2017.07.24
 
 [Kiwi,BDD行为测试框架](http://www.cnblogs.com/ios122/p/4979617.html)
 
-## Project-one[代码规范](https://blanbok.github.io/post/Development/objective-c-coding-standard/)
+## Project-one[代码规范](https://blanbok.github.io/post/iOS-Development/objective-c-coding-standard/)
 > 规范代码格式，制订代码规范
 
 Recorded in 2017.07.30
@@ -97,7 +97,7 @@ Recorded in 2017.07.30
 
 网络上可以参考的东西很多，应该对照多分资料学习
 
-## Project-two[代码的封装](https://blanbok.github.io/post/Development/Code-Encapsulation/)
+## Project-two[代码的封装](https://blanbok.github.io/post/iOS-Development/Code-Encapsulation/)
 
 1. 计划分解
 
