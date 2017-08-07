@@ -141,7 +141,7 @@ Recorded in 2017.07.30
 封装既是便利自己，也是经营自己
 封装也能作为代码规范的一部分存在
 
-## Project-two React Native掌握
+## Project-three React Native掌握
 1、计划分解
 
 通过基础教程，搭建 React Native 开发环境
