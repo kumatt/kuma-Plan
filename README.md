@@ -168,6 +168,35 @@ Recorded in 2017.07.30
 
 5、 反思计划
 
+## Project-four 项目架构理解
+
+ 1、 计划分解
+
+通过相关书籍、博客资料，深入理解架构。
+
+对[自己的架构](https://github.com/OComme/iOS-ProjectStructureDemo)进行维护。
+
+ 2、 计划估时
+ 
+ - 阅读相关资料，将其与自己从前的开发经验对照理解，预计 12天
+ - 通过项目实践来优化自己的架构 预计 14天 +
+
+总计 12 + 14 = 26天
+
+3、规划步骤
+
+- 阅览并理解[iOS应用架构谈](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+- 其它经典架构书籍阅览
+- 相关博客资料理解
+- 架构优化
+
+4、 实际执行
+
+- 2017.08.06日阅读完[iOS应用架构谈](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html) 【开篇、view层的组织和调用方案、网络层设计方案】
+- 2017.08.07日撰写计划，开始计划
+
+5、 反思计划
+
 
 # 备选项目：
 
@@ -247,3 +276,5 @@ Recorded in 2017.07.30
 [React Native 中文网](http://reactnative.cn)
 
 [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
+
+
