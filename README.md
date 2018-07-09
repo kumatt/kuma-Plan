@@ -293,5 +293,6 @@ Recorded in 2017.07.30
 4. runtime及runloop的深入理解
 5. GPUImage的深入使用
 6. 直播框架的自定义实现
+7. 蓝牙 4.0 掌握
 
 
