@@ -38,6 +38,8 @@ V1.0.2：[changed in 9 july 2018] 对标对象：腾讯、网易、百度等知�
 
 WHY? There are too few gains to be gained in a day, and the goal is to be refocused every day
 
+- Edit in 9 july 2018，I hope to introduce the STAR rule to improve my plan
+
 > 项目
 
 # Tech-conclusion
