@@ -24,6 +24,14 @@ V1.0.1：[changed in 30 july 2017]
 - 记录实际执行的情况（关键词：实际执行）
 - 计划结束后反思提前完成或逾期完成的原因，优化下一次的计划（关键词：反思项目）
 
+V1.0.2：[changed in 9 july 2018]
+
+> 依据`STAR法则`来制订并记录计划
+
+- Situation: 事情是在什么情况下发生
+- Task: 你是如何明确你的任务的
+- Action: 针对这样的情况分析，你采用了什么行动方式
+- Result: 结果怎样，在这样的情况下你学习到了什么
 
 **EDIT：**
 - Edit in 30 july 2017，from One day one project renamed to one project one plan;
@@ -276,5 +284,14 @@ Recorded in 2017.07.30
 [React Native 中文网](http://reactnative.cn)
 
 [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
+
+## Optional-Other
+
+1. socket的深入理解
+2. 多线程的深入理解
+3. IM架构的自定义实现
+4. runtime及runloop的深入理解
+5. GPUImage的深入使用
+6. 直播框架的自定义实现
 
 
