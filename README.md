@@ -1,5 +1,5 @@
 # One-project-one-plan
-Daily income is recorded by a small project each day
+希望作为[《关于学习方法的记录》](https://ocomme.github.io/post/learn/learning-method/)的实践部分
 
 > 起初，我是为了学习Swift仿着[30DaysofSwift](https://github.com/allenwong/30DaysofSwift)而开始自己的[My30DaysofSwift-4.0](https://github.com/OComme/My30DaysofSwift-4.0)。
 
@@ -24,7 +24,15 @@ V1.0.1：[changed in 30 july 2017] 对标对象：15K薪资（暂 14K）
 - 记录实际执行的情况（关键词：实际执行）
 - 计划结束后反思提前完成或逾期完成的原因，优化下一次的计划（关键词：反思项目）
 
-V1.0.2：[changed in 9 july 2018] 对标对象：知名IT公司的 offer
+V1.0.2：[changed in 10 july 2018]
+
+- 计划分解
+- 计划估时
+- 规划步骤（计划的步骤）
+- 操作记录（实际执行的情况）
+- 项目总结
+
+V2.0.0：[changed in 9 july 2018] 对标对象：知名IT公司的 offer
 
 > 依据`STAR法则`来制订并记录计划
 
@@ -33,12 +41,13 @@ V1.0.2：[changed in 9 july 2018] 对标对象：知名IT公司的 offer
 - Action: 针对这样的情况分析，你采用了什么行动方式
 - Result: 结果怎样，在这样的情况下你学习到了什么
 
-**EDIT：**
+**EDIT NOTES：**
 - Edit in 30 july 2017，from One day one project renamed to one project one plan;
 
 WHY? There are too few gains to be gained in a day, and the goal is to be refocused every day
 
 - Edit in 9 july 2018，I hope to introduce the STAR rule to improve my plan
+- Edit in 10 july 2018，Optimization of text content for version 1.0.1
 
 > 项目
 
