@@ -214,8 +214,12 @@ Recorded in 2017.07.30
 
 - 2018.06.06日阅读完[iOS应用架构谈](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html) 【开篇、view层的组织和调用方案、网络层设计方案】
 - 2018.06.07日撰写计划，开始计划
+- 2018.07.24日阅读完[iOS应用架构谈](https://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html) 【本地持久化方案及动态部署
+、组件化方案】
 
 5、 反思计划
+
+- 以面向协议思想优化[现有架构](https://github.com/OComme/iOS-StructuralModel)
 
 
 # 备选项目：
