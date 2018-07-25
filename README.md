@@ -9,7 +9,7 @@
 
 于是，这个项目便开始了。
 
-V1.0.0：[start in 24 july 2017]
+[V 1.0.0](./V1.0.0Notes)：[start in 24 july 2017]
 
 - 首先，在开始项目的前一天确定好第二天要做的东西（模仿的对象或者实现的功能）。
 - 其次，在项目搭建的过程中写好给予自己的注释（即将项目用自己可以理解的方式解释一次）
@@ -50,36 +50,9 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - Edit in 9 july 2018，I hope to introduce the STAR rule to improve my plan
 - Edit in 10 july 2018，Optimization of text content for version 1.0.1
 
-> 项目
 
-# Tech-conclusion
-  [`ARKit`框架学习笔记](https://github.com/OComme/One-project-one-plan/blob/master/Tech-conclusion/ARKit.md)
 
-# Daily-Exam
-
-## Day-One
-
-Recorded in 2017.07.24
-
-### Project-One [ARKit](https://github.com/OComme/One-project-one-plan/tree/master/Daily-Exam/Day-one/ARKitDemo)
-> 关于iOS-11新功能 ARKit库的使用
-
-## Day-Two
-> 增进AR理解
-
-参考资料：
-
-[ARKit从入门到精通](http://blog.csdn.net/u013263917/article/details/72903174)
-
-## Day-Three [StackTest](https://github.com/OComme/One-project-one-plan/tree/master/Daily-Exam/Day-three/StackTest)
-> Kiwi自动化测试初探
-Recorded in 2017.07.24
-
-参考资料：
-
-[TDD的iOS开发初步以及Kiwi使用入门](https://onevcat.com/2014/02/ios-test-with-kiwi/)
-
-[Kiwi,BDD行为测试框架](http://www.cnblogs.com/ios122/p/4979617.html)
+# V 1.0.1 Notes
 
 ## Project-one[代码规范](https://ocomme.github.io/post/ios-development/objective-c-coding-standard/)
 > 规范代码格式，制订代码规范
