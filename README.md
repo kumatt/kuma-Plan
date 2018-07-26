@@ -40,6 +40,7 @@ V1.0.2：[changed in 10 july 2018]
 - Task:      分解任务
 - Estimate:  完成时间
 - Action:    执行情况
+- Question:  提出疑问
 - Result:    回顾和总结
 
 **EDIT NOTES：**
