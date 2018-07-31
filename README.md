@@ -53,7 +53,19 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - Edit in 25 july 2018，add 'Question' module in version 2.0.0
 - Edit in 31 july 2018，delete 'Estimate' module in version 2.0.0
 
-# 备选项目：
+# 可选项目：
+
+1. ~~项目架构理解~~
+2. ~~代码封装的整理~~
+3. socket的深入理解
+4. ~~多线程的深入理解~~
+5. IM架构的自定义实现
+6. ~~runtime及runloop的深入理解~~
+7. GPUImage的深入使用
+8. 直播框架的自定义实现
+9. 蓝牙 4.0 掌握
+10. ~~React Native~~学习
+11. ~~项目结构~~深入理解
 
 ## Optional-One 排序算法 
 初定资料：
@@ -116,30 +128,3 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - 2017.08.07日撰写计划
 
 5、 反思计划
-
-## Optional-Three React Native掌握
-初定资料：
-
-[写给移动开发者的 React Native 指南](http://www.jianshu.com/p/b88944250b25)
-
-[React Native 从入门到原理](http://www.jianshu.com/p/978c4bd3a759)
-
-[React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
-
-[React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
-
-[React Native 中文网](http://reactnative.cn)
-
-[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
-
-## Optional-Other
-
-1. socket的深入理解
-2. ~~多线程的深入理解~~
-3. IM架构的自定义实现
-4. ~~runtime及runloop的深入理解~~
-5. GPUImage的深入使用
-6. 直播框架的自定义实现
-7. 蓝牙 4.0 掌握
-
-
