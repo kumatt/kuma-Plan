@@ -49,8 +49,8 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 
 - Edit in 9 july 2018，I hope to introduce the STAR rule to improve my plan
 - Edit in 10 july 2018，Optimization of text content for version 1.0.1
-- Edit in 25 july 2018，add 'question' module
-- Edit in 31 july 2018，delete 'Estimate' module
+- Edit in 25 july 2018，add 'Question' module in version 2.0.0
+- Edit in 31 july 2018，delete 'Estimate' module in version 2.0.0
 
 # 备选项目：
 
