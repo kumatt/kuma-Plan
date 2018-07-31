@@ -38,7 +38,6 @@ V1.0.2：[changed in 10 july 2018]
 
 - Situation: 起因或目的
 - Task:      分解任务
-- Estimate:  完成时间
 - Action:    执行情况
 - Question:  提出疑问
 - Result:    回顾和总结
@@ -50,6 +49,8 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 
 - Edit in 9 july 2018，I hope to introduce the STAR rule to improve my plan
 - Edit in 10 july 2018，Optimization of text content for version 1.0.1
+- Edit in 25 july 2018，add 'question' module
+- Edit in 31 july 2018，delete 'Estimate' module
 
 # 备选项目：
 
@@ -133,9 +134,9 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 ## Optional-Other
 
 1. socket的深入理解
-2. 多线程的深入理解
+2. ~~多线程的深入理解~~
 3. IM架构的自定义实现
-4. runtime及runloop的深入理解
+4. ~~runtime及runloop的深入理解~~
 5. GPUImage的深入使用
 6. 直播框架的自定义实现
 7. 蓝牙 4.0 掌握
