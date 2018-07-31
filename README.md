@@ -55,17 +55,18 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 
 # 可选项目：
 
-1. ~~项目架构理解~~
+1. ~~代码规范的整理~~
 2. ~~代码封装的整理~~
-3. socket的深入理解
-4. ~~多线程的深入理解~~
-5. IM架构的自定义实现
+3. ~~项目结构深入理解~~
+4. ~~React Native学习~~
+5. ~~多线程的深入理解~~
 6. ~~runtime及runloop的深入理解~~
-7. GPUImage的深入使用
-8. 直播框架的自定义实现
-9. 蓝牙 4.0 掌握
-10. ~~React Native~~学习
-11. ~~项目结构~~深入理解
+7. socket的深入理解
+8. IM架构的自定义实现
+9. GPUImage的深入使用
+10. 直播框架的自定义实现
+11. 蓝牙 4.0 掌握
+
 
 ## Optional-One 排序算法 
 初定资料：
