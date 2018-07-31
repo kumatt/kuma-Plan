@@ -1,4 +1,5 @@
-# One-project-one-plan
+# My Project Plan
+
 希望作为[《关于学习方法的记录》](https://ocomme.github.io/post/learn/learning-method/)的实践部分
 
 > 起初，我是为了学习Swift仿着[30DaysofSwift](https://github.com/allenwong/30DaysofSwift)而开始自己的[My30DaysofSwift-4.0](https://github.com/OComme/My30DaysofSwift-4.0)。
