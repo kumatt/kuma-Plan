@@ -66,6 +66,8 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 9. GPUImage的深入使用
 10. 直播框架的自定义实现
 11. 蓝牙 4.0 掌握
+12. CoreAnimation和CoreGraphics的深入理解
+13. 代码混淆
 
 
 ## Optional-One 排序算法 
