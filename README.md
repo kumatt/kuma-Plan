@@ -52,6 +52,17 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - Edit in 10 july 2018，Optimization of text content for version 1.0.1
 - Edit in 25 july 2018，add 'Question' module in version 2.0.0
 - Edit in 31 july 2018，delete 'Estimate' module in version 2.0.0
+- Edit in 31 july 2018，Introduction 'Character attribute table' and ‘Skill Level’
+
+This is [My Character Attribute Table](CharacterAttributeTable.md)
+
+```
+Skill Level:
+level 1: Understanding basic concepts
+level 2: Understanding of specific functions
+level 3: Knowledge of the complete tool library
+level 4: There is no threshold for understanding the arbitrary data of this skill
+```
 
 # 可选项目：
 
@@ -131,3 +142,5 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - 2017.08.07日撰写计划
 
 5、 反思计划
+
+
