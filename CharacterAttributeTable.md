@@ -7,7 +7,6 @@
 种族：人类
 等级：level 1
 性别：男
-身高：166cm
 体重：70kg
 阵营：守序邪恶
 力量：18+1
@@ -33,22 +32,52 @@
 - Japanese      ——level 1(1/10)
 ```
 
-任务记录：
-
-- `SCP-10001`[代码规范](https://ocomme.github.io/post/ios-development/objective-c-coding-standard/) -F
-- `SCP-10002`[代码封装](https://ocomme.github.io/post/ios-development/code-encapsulation/) -F
-- `SCP-10003`React Native掌握 -`10/100`
-- `SCP-10004` 项目架构理解 -`3/10`
-- `SCP-20001` 多线程 -F
-- `SCP-20002` Runtime和Runloop -`1/10`
-
 # 对标对象
 
 ## 1a-大型IT企业
 
-待完成
+目标技能：
+
+```
+- C             ——level 1
+- Objective-C   ——level 4
+- Swift         ——level 3
+- Java Script   ——level 2
+- Html 5        ——level 2
+- React Native  ——level 2
+- English       ——level 2
+```
+
+对标任务：
+
+- `SCP-10001`[代码规范](https://ocomme.github.io/post/ios-development/objective-c-coding-standard/) -`5/5`
+- `SCP-10002`[代码封装](https://ocomme.github.io/post/ios-development/code-encapsulation/) -`5/5`
+- `SCP-10003`React Native掌握 -`3/40`
+- `SCP-10004` 项目架构理解 -`6/30`
+- `SCP-20001` 多线程 -`10/10`
+- `SCP-20002` Runtime和Runloop -`1/10`
+- socket的深入理解 -`0/0`
+- IM架构的自定义实现 -`0/0`
+- FFMEG框架的掌握 -`0/0`
+- GPUImage的深入使用 -`0/0`
+- 直播框架的自定义实现 -`0/0`
+- 蓝牙 4.0 掌握 -`0/0`
+- CoreAnimation和CoreGraphics的深入理解 -`0/0`
+- 代码混淆 -`0/0`
 
 ## 1b-社交及健康管理
 
-待完成
+目标状态：
+
+```
+体重：55kg
+体脂指数：18%
+腰臀比：0.9
+```
+
+对标任务：
+
+- 腹部减肥 -`0/0`
+- 增肌锻炼 -`0/0`
+- 优化每周菜单 -`0/0`
 
