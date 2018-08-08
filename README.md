@@ -52,7 +52,7 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - Edit in 10 july 2018，Optimization of text content for version 1.0.1
 - Edit in 25 july 2018，add 'Question' module in version 2.0.0
 - Edit in 31 july 2018，delete 'Estimate' module in version 2.0.0
-- Edit in 31 july 2018，Introduction 'Character attribute table' and ‘Skill Level’
+- Edit in 7 august 2018，Introduction 'Character attribute table' and ‘Skill Level’
 
 This is [My Character Attribute Table](CharacterAttributeTable.md)
 
