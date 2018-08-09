@@ -1,5 +1,15 @@
 # My Project Plan
 
+This is [My Character Attribute Table](CharacterAttributeTable.md)
+
+```
+Skill Level:
+level 1: Understanding basic concepts
+level 2: Understanding of specific functions
+level 3: Knowledge of the complete tool library
+level 4: There is no threshold for understanding the arbitrary data of this skill
+```
+
 希望作为[《关于学习方法的记录》](https://ocomme.github.io/post/learn/learning-method/)的实践部分
 
 > 起初，我是为了学习Swift仿着[30DaysofSwift](https://github.com/allenwong/30DaysofSwift)而开始自己的[My30DaysofSwift-4.0](https://github.com/OComme/My30DaysofSwift-4.0)。
@@ -37,11 +47,12 @@ V1.0.2：[changed in 10 july 2018]
 
 > 依据`STAR法则`来制订并记录计划
 
-- Situation: 起因或目的
-- Task:      分解任务
-- Action:    执行情况
-- Question:  提出疑问
-- Result:    回顾和总结
+- Situation:  起因或目的
+- Task:       分解任务
+- Action:     执行情况
+- Thunderbolt:意外情况及应对
+- Question:   提出疑问
+- Result:     回顾和总结
 
 **EDIT NOTES：**
 - Edit in 30 july 2017，from One day one project renamed to one project one plan;
@@ -53,16 +64,6 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - Edit in 25 july 2018，add 'Question' module in version 2.0.0
 - Edit in 31 july 2018，delete 'Estimate' module in version 2.0.0
 - Edit in 7 august 2018，Introduction 'Character attribute table' and ‘Skill Level’
-
-This is [My Character Attribute Table](CharacterAttributeTable.md)
-
-```
-Skill Level:
-level 1: Understanding basic concepts
-level 2: Understanding of specific functions
-level 3: Knowledge of the complete tool library
-level 4: There is no threshold for understanding the arbitrary data of this skill
-```
 
 # 可选项目：
 
