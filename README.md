@@ -10,6 +10,18 @@ level 3: Knowledge of the complete tool library
 level 4: There is no threshold for understanding the arbitrary data of this skill
 ```
 
+```
+明伦七法：定静安断明悟空
+
+定：明确的目标和认知
+静：保持本心，不为外物所动
+安：考虑周全
+断：剔除杂念
+明：以上帝视角看待事情，知道自己在做什么
+悟：结合潜意识进行思考
+空：忽略表象因素，抓住关键点
+```
+
 希望作为[《关于学习方法的记录》](https://ocomme.github.io/post/learn/learning-method/)的实践部分
 
 > 起初，我是为了学习Swift仿着[30DaysofSwift](https://github.com/allenwong/30DaysofSwift)而开始自己的[My30DaysofSwift-4.0](https://github.com/OComme/My30DaysofSwift-4.0)。
