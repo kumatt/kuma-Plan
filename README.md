@@ -1,6 +1,4 @@
-# My Project Plan
-
-This is [My Character Attribute Table](CharacterAttributeTable.md)
+# My Plan My Life
 
 ```
 Skill Level:
@@ -8,18 +6,6 @@ level 1: Understanding basic concepts
 level 2: Understanding of specific functions
 level 3: Knowledge of the complete tool library
 level 4: There is no threshold for understanding the arbitrary data of this skill
-```
-
-```
-明伦七法：定静安断明悟空
-
-定：明确的目标和认知
-静：保持本心，不为外物所动
-安：考虑周全
-断：剔除杂念
-明：以上帝视角看待事情，知道自己在做什么
-悟：结合潜意识进行思考
-空：忽略表象因素，抓住关键点
 ```
 
 希望作为[《关于学习方法的记录》](https://ocomme.github.io/post/learn/learning-method/)的实践部分
@@ -66,6 +52,15 @@ V1.0.2：[changed in 10 july 2018]
 - Question:   提出疑问
 - Result:     回顾和总结
 
+[V 3.0.0](2019-Notes.md)：[changed in 9 Dec 2018]
+
+- 角色卡
+- 预期目标
+- 可选计划
+- 计划列表
+- 习惯养成
+- 技能描述
+
 **EDIT NOTES：**
 - Edit in 30 july 2017，from One day one project renamed to one project one plan;
 
@@ -75,7 +70,9 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 - Edit in 10 july 2018，Optimization of text content for version 1.0.1
 - Edit in 25 july 2018，add 'Question' module in version 2.0.0
 - Edit in 31 july 2018，delete 'Estimate' module in version 2.0.0
-- Edit in 7 august 2018，Introduction 'Character attribute table' and ‘Skill Level’
+- Edit in 7 august 2018，Introduction 'Character attribute table' and ‘Skill Level
+- Edit in 9 Dec 2018，add 'annual objectives' in version 3.0.0
+
 
 # 可选项目：
 
@@ -156,4 +153,16 @@ WHY? There are too few gains to be gained in a day, and the goal is to be refocu
 
 5、 反思计划
 
+
+```
+明伦七法：定静安断明悟空
+
+定：明确的目标和认知
+静：保持本心，不为外物所动
+安：考虑周全
+断：剔除杂念
+明：以上帝视角看待事情，知道自己在做什么
+悟：结合潜意识进行思考
+空：忽略表象因素，抓住关键点
+```
 
