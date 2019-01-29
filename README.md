@@ -52,28 +52,17 @@ V1.0.2：[changed in 10 july 2018]
 - Question:   提出疑问
 - Result:     回顾和总结
 
-[V 3.0.0](2019-Notes.md)：[changed in 9 Dec 2018]
+[V 3.0.0](2019-Notes.md)：[changed in 24 Dec 2018]
 
 - 角色卡
-- 预期目标
+- 阶段目标
 - 可选计划
 - 计划列表
+- 抉择&机会成本
 - 问题&答案
+- 吾日三省
 - 习惯养成
 - 技能描述
-
-**EDIT NOTES：**
-- Edit in 30 july 2017，from One day one project renamed to one project one plan;
-
-WHY? There are too few gains to be gained in a day, and the goal is to be refocused every day
-
-- Edit in 9 july 2018，I hope to introduce the STAR rule to improve my plan
-- Edit in 10 july 2018，Optimization of text content for version 1.0.1
-- Edit in 25 july 2018，add 'Question' module in version 2.0.0
-- Edit in 31 july 2018，delete 'Estimate' module in version 2.0.0
-- Edit in 7 august 2018，Introduction 'Character attribute table' and ‘Skill Level
-- Edit in 9 Dec 2018，add 'annual objectives' in version 3.0.0
-
 
 # 可选项目：
 
